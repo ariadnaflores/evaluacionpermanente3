@@ -1,0 +1,28 @@
+#categorias{
+    padding:50px;
+}
+.card-header h4{
+    color:rgb(255, 255, 255);
+}
+.padded {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+.list-group-item.active {
+    background-color: var(--color1);
+    border-color: var(--color1);
+}
+.card{
+    height: 100%!important;
+}
+.sin-oferta{
+    display: none;
+}
+.con-oferta{
+    background-color: var(--color5);
+    color: var(--color-blanco);
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px 10px;
+}
